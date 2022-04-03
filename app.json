@@ -10,6 +10,12 @@
     "YukkiMusicBot",
     "telegram-bot",
     "pyrogram"
+],
+    "website": "https://TroJanzHEX.me",
+    "repository": "https://github.com/akshay695/YukkiMusicBot",
+    "success_url": "https://telegram.dog/TroJanzHEX",
+    "env": {
+
     ],
     "stack": "container",
     "env": {
